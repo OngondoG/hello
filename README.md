@@ -1,2 +1,2 @@
 # hello
-A simple test for using git
+A simple test for using git and its usage
